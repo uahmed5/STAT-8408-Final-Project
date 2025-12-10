@@ -1,1 +1,2 @@
 # STAT-8408-Final-Project
+This is my final project for my Multivariate Methods Class. This project analyzes whether NFL playoff teams differ from non-playoff teams across multiple offensive and defensive performance metrics using MANOVA, PCA and logistic regression. The dataset includes all 32 teams from the 2023 NFL season, constructed using the nflverse R packages (nflreadr and nflfastR). Comments are provided in the code explaining what each section does. 
